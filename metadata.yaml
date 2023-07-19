@@ -1,0 +1,37 @@
+_repo: La-bibliotheque-nationale-b-Son-origine-et-ses-accroissements-jusqu-a-nos-jours_71033
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mortreuil, Th. (Théodore)
+    aliases:
+    - Mortreuil, Théodore
+    - Mortreuil, Th. (Theodore)
+    birthdate: 1850
+    deathdate: 1937
+    gutenberg_agent_id: '56048'
+    url: http://www.gutenberg.org/2009/agents/56048
+description: ''
+gutenberg_issued: '2023-06-24'
+identifiers:
+  gutenberg: '71033'
+language: fr
+pgterms:marc904:
+- https://gallica.bnf.fr/ark:/12148/bpt6k209385f?rk=21459
+- '2'
+pgterms:marc905: 20070203183241mortreuil
+pgterms:marc906: '1878'
+pgterms:marc907: FR
+production_note: Claudine Corbasson, Adrian Mastronardi and the Online Distributed
+  Proofreading Team at https://www.pgdp.net (This file was produced from images generously
+  made available by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: '  $aFrance :$bChampion, Librarie, $c1878.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bibliothèque nationale (France)'
+- !lcc 'Z'
+- GITenberg
+title: 'La bibliothèque nationale : $b Son origine et ses accroissements jusqu''à
+  nos jours'
+url: http://www.gutenberg.org/ebooks/71033
