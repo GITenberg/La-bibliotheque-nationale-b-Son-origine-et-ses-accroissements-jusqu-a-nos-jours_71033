@@ -1,5 +1,8 @@
 _repo: La-bibliotheque-nationale-b-Son-origine-et-ses-accroissements-jusqu-a-nos-jours_71033
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71033-h/images/cover.jpg
 creator:
   author:
     agent_name: Mortreuil, Th. (Théodore)
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '56048'
     url: http://www.gutenberg.org/2009/agents/56048
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71033#La-bibliotheque-nationale-b-Son-origine-et-ses-accroissements-jusqu-a-nos-jours
 gutenberg_issued: '2023-06-24'
 identifiers:
   gutenberg: '71033'
